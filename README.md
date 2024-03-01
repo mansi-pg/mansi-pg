@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mansi-pg
+- 👀 I’m interested in building impactful features for PG with the power of AI!
+- 🌱 I’m currently learning Python, AI fundamentals and revisiting product management in today's time.
+- 📫 Just say Hi to me on slack of teams!
+- ⚡ Fun fact: I am also starting to learn basics of MMA because gym is boring and should only be a supplement to learning new stuff! 
+- ☕️ Always up for tea or coffee!
